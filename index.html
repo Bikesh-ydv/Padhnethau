@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Question Bank</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1><i class="fas fa-book-open"></i> My Question Bank</h1>
+            <p>Organized chapterwise questions and past papers</p>
+            <button id="themeToggle" class="theme-toggle">
+                <i class="fas fa-moon"></i> Dark Mode
+            </button>
+        </div>
+    </header>
+
+    <nav>
+        <ul class="subject-tabs" id="subjectTabs">
+            <!-- Will be populated by JavaScript -->
+        </ul>
+    </nav>
+
+    <main>
+        <div class="content-container">
+            <section class="chapter-questions" id="chapterQuestions">
+                <!-- Chapterwise questions will be displayed here -->
+            </section>
+
+            <aside class="past-papers">
+                <div class="past-papers-header">
+                    <h2><i class="fas fa-file-pdf"></i> Past Papers</h2>
+                    <button class="mobile-toggle" id="mobileToggle">
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                </div>
+                <div class="pdf-container" id="pdfContainer">
+                    <!-- PDF links will be displayed here -->
+                </div>
+            </aside>
+        </div>
+
+ <!-- Submission Modal -->
+<div id="submissionModal" class="modal">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <h2>Submit a New Question</h2>
+        <form id="questionForm">
+            <div class="form-group">
+                <label for="submitterName">Your Name:</label>
+                <input type="text" id="submitterName" required>
+            </div>
+            <div class="form-group">
+                <label for="subjectSelect">Subject:</label>
+                <select id="subjectSelect" required></select>
+            </div>
+            <div class="form-group">
+                <label for="chapterSelect">Chapter:</label>
+                <select id="chapterSelect" required></select>
+            </div>
+            <div class="form-group">
+                <label for="questionContent">Question Content:</label>
+                <textarea id="questionContent" rows="2" required></textarea>
+            </div>
+            <button type="submit" class="submit-btn">Submit for Review</button>
+        </form>
+    </div>
+</div>
+
+<!-- Add Question Button -->
+<button id="addQuestionBtn" class="floating-btn">
+    <i class="fas fa-plus"></i> Add Question
+</button>
+
+<!-- Admin Approval Panel (hidden by default) -->
+<div id="adminPanel" class="admin-panel">
+    <h3><i class="fas fa-shield-alt"></i> Pending Approvals</h3>
+    <div id="pendingQuestions"></div>
+</div>
+
+    </main>
+
+    <footer>
+        <p>Created for our study convenience  by Bikesh </p>
+    </footer>
+
+    <script src="script.js" type="module"></script>
+</body>
+</html>
