@@ -142,7 +142,7 @@ export const questionBank = {
                     q1: {
                         title: "Basic Methodologies of Engineering Economic Analysis",
                         content: " ",
-                        image:"/ee/ch-3.1.png",
+                        image:"ee/ch-3.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -150,7 +150,7 @@ export const questionBank = {
                     q2: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.2.png",
+                        image:"ee/ch-3.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -158,7 +158,7 @@ export const questionBank = {
                     q3: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.3.png",
+                        image:"ee/ch-3.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -166,7 +166,7 @@ export const questionBank = {
                     q4: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.4.png",
+                        image:"ee/ch-3.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -174,7 +174,7 @@ export const questionBank = {
                     q5: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.5.png",
+                        image:"ee/ch-3.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -182,7 +182,7 @@ export const questionBank = {
                     q6: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.6.png",
+                        image:"ee/ch-3.6.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -190,7 +190,7 @@ export const questionBank = {
                     q7: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.7.png",
+                        image:"ee/ch-3.7.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -198,7 +198,7 @@ export const questionBank = {
                     q8: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.8.png",
+                        image:"ee/ch-3.8.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -206,7 +206,7 @@ export const questionBank = {
                     q9: {
                         title: "",
                         content: " ",
-                        image:"/ee/ch-3.9.png",
+                        image:"ee/ch-3.9.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -219,7 +219,7 @@ export const questionBank = {
                     q1: {
                         title: "Comparative Analysis of Alternatives",
                         content: "",
-                        image:"/ee/ch-4.1.png",
+                        image:"ee/ch-4.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -227,7 +227,7 @@ export const questionBank = {
                     q2: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.2.png",
+                        image:"ee/ch-4.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -235,7 +235,7 @@ export const questionBank = {
                     q3: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.3.png",
+                        image:"ee/ch-4.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -243,7 +243,7 @@ export const questionBank = {
                     q4: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.4.png",
+                        image:"ee/ch-4.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -251,7 +251,7 @@ export const questionBank = {
                     q5: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.5.png",
+                        image:"ee/ch-4.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -259,7 +259,7 @@ export const questionBank = {
                     q6: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.6.png",
+                        image:"ee/ch-4.6.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -267,7 +267,7 @@ export const questionBank = {
                     q7: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.7.png",
+                        image:"ee/ch-4.7.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -275,7 +275,7 @@ export const questionBank = {
                     q8: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-4.8.png",
+                        image:"ee/ch-4.8.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -288,7 +288,7 @@ export const questionBank = {
                     q1: {
                         title: "Replacement Analysis",
                         content: "",
-                        image:"/ee/ch-5.1.png",
+                        image:"ee/ch-5.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -296,7 +296,7 @@ export const questionBank = {
                      q2: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-5.2.png",
+                        image:"ee/ch-5.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -304,7 +304,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-5.3.png",
+                        image:"ee/ch-5.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -312,7 +312,7 @@ export const questionBank = {
                      q4: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-5.4.png",
+                        image:"ee/ch-5.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -320,7 +320,7 @@ export const questionBank = {
                      q5: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-5.5.png",
+                        image:"ee/ch-5.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -333,7 +333,7 @@ export const questionBank = {
                     q1: {
                         title: "Risk Analysis",
                         content: "",
-                        image:"/ee/ch-6.1.png",
+                        image:"ee/ch-6.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -341,7 +341,7 @@ export const questionBank = {
                      q2: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-6.2.png",
+                        image:"ee/ch-6.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -349,7 +349,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-6.3.png",
+                        image:"ee/ch-6.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -357,7 +357,7 @@ export const questionBank = {
                      q4: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-6.4.png",
+                        image:"ee/ch-6.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -365,7 +365,7 @@ export const questionBank = {
                      q5: {
                         title: "Risk Analysis",
                         content: "",
-                        image:"/ee/ch-6.5.png",
+                        image:"ee/ch-6.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -378,7 +378,7 @@ export const questionBank = {
                     q1: {
                         title: "Depreciation and Corporate Income Taxes",
                         content: "",
-                        image:"/ee/ch-7.1.png",
+                        image:"ee/ch-7.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -386,7 +386,7 @@ export const questionBank = {
                      q2: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-7.2.png",
+                        image:"ee/ch-7.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -394,7 +394,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-7.3.png",
+                        image:"ee/ch-7.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -402,7 +402,7 @@ export const questionBank = {
                      q4: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-7.4.png",
+                        image:"ee/ch-7.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -410,7 +410,7 @@ export const questionBank = {
                      q5: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-7.5.png",
+                        image:"ee/ch-7.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -423,7 +423,7 @@ export const questionBank = {
                     q1: {
                         title: "Inflation and Its Impact on Project Cashflows",
                         content: "",
-                        image:"/ee/ch-8.1.png",
+                        image:"ee/ch-8.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -431,7 +431,7 @@ export const questionBank = {
                      q2: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-8.2.png",
+                        image:"ee/ch-8.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -439,7 +439,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-8.3.png",
+                        image:"ee/ch-8.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -447,7 +447,7 @@ export const questionBank = {
                      q4: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-8.4.png",
+                        image:"ee/ch-8.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -455,7 +455,7 @@ export const questionBank = {
                      q5: {
                         title: "",
                         content: "",
-                        image:"/ee/ch-8.5.png",
+                        image:"ee/ch-8.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -898,7 +898,7 @@ export const questionBank = {
                     q1: {
                         title: "Frequency Transformations",
                         content: "1. Design a Band pass filter having center frequency at 1500 rad/sec and bandwidth 300 rad/sec from a 4th order Butterworth low pass resistively terminated lossless filter.(Refer Table).(4) [081-R]",
-                        image:"/fd/081-R.png",
+                        image:"fd/081-R.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -914,7 +914,7 @@ export const questionBank = {
                     q3: {
                         title: "Frequency Transformations",
                         content: "4. How frequency transformation reduces the design steps required to design a filter? Design a band stop filter having center frequency 2000 rad/s and bandwidth 400 rad/s from a 3rd order Butterworth low pass filter. (Refer Table)(1+4) [080-R] ",
-                        image:"/fd/080-R.png",
+                        image:"fd/080-R.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -928,7 +928,7 @@ export const questionBank = {
                     q1: {
                         title: "Properties and synthesis of passive networks",
                         content: "",
-                        image:"/fd/ques1.jpg",
+                        image:"fd/ques1.jpg",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -936,7 +936,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "",
-                        image:"/fd/ques2.jpg",
+                        image:"fd/ques2.jpg",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -964,7 +964,7 @@ export const questionBank = {
                     q2: {
                         title: "",
                         content: "4. What information do you get when the value of reflection coefficient is zero? Design a third order Butterworth low pass filter using Resistively terminated lossless ladder with equal termination of 1 Ω.(Refer Table). (1+6) [081-B] ",
-                        image:"/fd/081-B.png",
+                        image:"fd/081-B.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -972,7 +972,7 @@ export const questionBank = {
                     q3: {
                         title: "",
                         content: "5. Define reflection coefficient. Realize the third order Butterworth low pass filter using resistively terminated lossless ladder with R1 = 1Ω and R2 = 4Ω. [Refer Table 2].[079-R]",
-                        image:"/fd/079-R.png",
+                        image:"fd/079-R.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -1016,7 +1016,7 @@ export const questionBank = {
                     q2: {
                         title: "",
                         content: "what is Bruton Transformation? Design the 4th order Butterworth low pass filter with half power frequency 2,000 rad/sec and practically realizable elements using FDNR.(Refer Table)(2+4) [081-R] ",
-                        image:"/fd/081-R.png",
+                        image:"fd/081-R.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -1024,7 +1024,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "What is FDNR? How can you use FDNR to avoid the inductor in filter design? Explain.Design third order Butterworth low pass filter having half power frequency 4000 rad/susing FDNR. (Refer Table).(4+6) [080-R] ",
-                        image:"/fd/080-R.png",
+                        image:"fd/080-R.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -1032,7 +1032,7 @@ export const questionBank = {
                      q4: {
                         title: "",
                         content: " What is Bruton transformation? Design the 4th order Butterworth low pass filter with half power frequency 20,000 rad/s and practically realizable elements using FDNR.[Refer Table 2].(3+5)[2079-R]",
-                        image:"/fd/079-R.png",
+                        image:"fd/079-R.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -1045,7 +1045,7 @@ export const questionBank = {
                     q1: {
                         title: "Switched-Capacitor Filters",
                         content: "",
-                        image: "/fd/ch-9a.png",
+                        image: "fd/ch-9a.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -1053,7 +1053,7 @@ export const questionBank = {
                     q2: {
                         title: "",
                         content: "",
-                        image: "/fd/ch-9b.png",
+                        image: "fd/ch-9b.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -1061,7 +1061,7 @@ export const questionBank = {
                     q3: {
                         title: "",
                         content: "",
-                        image: "/fd/ch-9c.png",
+                        image: "fd/ch-9c.png",
                         contributor: "admin",
                         date: "",
                         approved: true
