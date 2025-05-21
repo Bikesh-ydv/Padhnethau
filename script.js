@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Set initial theme
 
     document.documentElement.setAttribute('data-theme', 'dark');
-    updateThemeToggle('light');
+    updateThemeToggle('dark');
     
     
     // Initialize question bank display
