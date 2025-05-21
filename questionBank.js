@@ -1189,7 +1189,7 @@ export const questionBank = {
         pastPapers: {
             paper1: {
                 year: "Upto 2081",
-                title: "Compute Network Past Year Paper",
+                title: "Computer Network Past Year Paper",
                 filename: "cn3.1bei.pdf"
             }
         }
