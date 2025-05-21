@@ -3,7 +3,15 @@ import { questionBank } from "./questionBank.js";
 
 // Submission system variables
 let pendingSubmissions = JSON.parse(localStorage.getItem('pendingSubmissions')) || [];
-const ADMIN_PASSWORD = "uni123"; 
+
+const ADMIN_PASSWORD_PARTS = [
+  "un", 
+  "i1i", 
+  "2i3i"  
+];
+
+ const ADMIN_PASSWORD = ADMIN_PASSWORD_PARTS.join('').replace(/ /g, ''); 
+
 
 // Initialize the app when DOM is loaded
 document.addEventListener('DOMContentLoaded', function() {
