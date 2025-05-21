@@ -795,7 +795,7 @@ export const questionBank = {
                         content: "",
                         image:"os/ch-8.2.png",
                         contributor: "admin",
-                        date: "5",
+                        date: "",
                         approved: true
                     },
                      q3: {
@@ -900,7 +900,7 @@ export const questionBank = {
                         content: "1. Design a Band pass filter having center frequency at 1500 rad/sec and bandwidth 300 rad/sec from a 4th order Butterworth low pass resistively terminated lossless filter.(Refer Table).(4) [081-R]",
                         image:"/fd/081-R.png",
                         contributor: "admin",
-                        date: "2023-09-15",
+                        date: "",
                         approved: true
                     },
                      q2: {
