@@ -8,7 +8,7 @@ export const questionBank = {
                 questions: {
                     q1: {
                         title: "Introduction",
-                        content: "1. Distinguish between computer orgaaization and architecture. Explain instruction cycle state diagram with interrupt handling.\n\n2. Explain instruction cycle state diagram. Describe PCI bus configuration.\n\n3. Discuss about the usage of Multiple Hierarchical Bus Architecture over single bus system. \n\n4. Define structure and function of a computer system. Draw instruction cycle state diagram with interrupt.\n\n5.Explain about the structural and functional viewpoint of a computer. Explain different elements of bus design.\n\n6. Explain different types of bus arbitration and compare them .\n\n7. Differentiate between computer organization and architecture. Compare and explain the bus structure of typical computer system. \n\n8. Draw the instruction cycle state diagram with example. \n\n9. ",
+                        content: "1. Distinguish between computer organization and architecture. Explain instruction cycle state diagram with interrupt handling.\n\n2. Explain instruction cycle state diagram. Describe PCI bus configuration.\n\n3. Discuss about the usage of Multiple Hierarchical Bus Architecture over single bus system. \n\n4. Define structure and function of a computer system. Draw instruction cycle state diagram with interrupt.\n\n5.Explain about the structural and functional viewpoint of a computer. Explain different elements of bus design.\n\n6. Explain different types of bus arbitration and compare them .\n\n7. Differentiate between computer organization and architecture. Compare and explain the bus structure of typical computer system. \n\n8. Draw the instruction cycle state diagram with example.  ",
                         contributor: "Admin",
                         date: "",
                         approved: true
@@ -904,7 +904,7 @@ export const questionBank = {
                         approved: true
                     },
                      q2: {
-                        title: "Frequency Transformations",
+                        title: "",
                         content: "2. Describe the frequency transfomation from low pass filter to band pass filter with a suitable example.(5) [081-B]\n\n3.  What are the applications of frequency transmission in filter design? How can you obtain a high pass filter from given low pass filter? Explain with a suitable example.(1+4) [080-B]",
                         image:"",
                         contributor: "admin",
@@ -912,7 +912,7 @@ export const questionBank = {
                         approved: true
                     },
                     q3: {
-                        title: "Frequency Transformations",
+                        title: "",
                         content: "4. How frequency transformation reduces the design steps required to design a filter? Design a band stop filter having center frequency 2000 rad/s and bandwidth 400 rad/s from a 3rd order Butterworth low pass filter. (Refer Table)(1+4) [080-R] ",
                         image:"fd/080-R.png",
                         contributor: "admin",

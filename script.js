@@ -17,7 +17,7 @@ const ADMIN_PASSWORD_PARTS = [
 document.addEventListener('DOMContentLoaded', function() {
     // Set initial theme
 
-    document.documentElement.setAttribute('data-theme', 'light');
+    document.documentElement.setAttribute('data-theme', 'dark');
     updateThemeToggle('light');
     
     
