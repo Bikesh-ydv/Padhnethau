@@ -695,7 +695,7 @@ export const questionBank = {
                     q1: {
                         title: "I/O Management and Disk Scheduling",
                         content: "",
-                        image:"/os/ch-6.1.png",
+                        image:"os/ch-6.1.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -703,7 +703,7 @@ export const questionBank = {
                      q2: {
                         title: "",
                         content: "",
-                        image:"/os/ch-6.2.png",
+                        image:"os/ch-6.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -711,7 +711,7 @@ export const questionBank = {
                      q3: {
                         title: "",
                         content: "",
-                        image:"/os/ch-6.3.png",
+                        image:"os/ch-6.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -719,7 +719,7 @@ export const questionBank = {
                      q4: {
                         title: "",
                         content: "",
-                        image:"/os/ch-6.4.png",
+                        image:"os/ch-6.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -727,7 +727,7 @@ export const questionBank = {
                      q5: {
                         title: "",
                         content: "",
-                        image:"/os/ch-6.5.png",
+                        image:"os/ch-6.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -748,7 +748,7 @@ export const questionBank = {
                     q2: {
                         title: "",
                         content: "",
-                        image:"/os/ch-7.2.png",
+                        image:"os/ch-7.2.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -756,7 +756,7 @@ export const questionBank = {
                     q3: {
                         title: "",
                         content: "",
-                        image:"/os/ch-7.3.png",
+                        image:"os/ch-7.3.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -764,7 +764,7 @@ export const questionBank = {
                     q4: {
                         title: "",
                         content: "",
-                        image:"/os/ch-7.4.png",
+                        image:"os/ch-7.4.png",
                         contributor: "admin",
                         date: "",
                         approved: true
@@ -772,7 +772,7 @@ export const questionBank = {
                     q5: {
                         title: "",
                         content: "",
-                        image:"/os/ch-7.5.png",
+                        image:"os/ch-7.5.png",
                         contributor: "admin",
                         date: "",
                         approved: true
